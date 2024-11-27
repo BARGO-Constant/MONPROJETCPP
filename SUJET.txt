@@ -1,0 +1,14 @@
+BARGO Sougrimanegdé Constant
+BAMOGO CHEICK SIDI MAHMOUD
+DAMIBA ISMAEL
+
+SUJET 6
+
+6. Simulateur de Banque
+Créer des comptes bancaires avec informations client et solde initial.
+Effectuer des dépôts et retraits sur les comptes.
+Effectuer des transferts entre comptes bancaires.
+Afficher le relevé des transactions pour un compte.
+Rechercher un compte par numéro ou nom de client.
+Verrouiller un compte pour éviter des opérations non autorisées.
+Sauvegarder et charger les données des comptes dans un fichier.
